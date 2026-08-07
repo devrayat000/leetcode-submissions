@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/devrayat000/leetcode-submissions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/devrayat000/leetcode-submissions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/devrayat000/leetcode-submissions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
