@@ -1,27 +1,28 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int n = nums.size();
-        vector<int> prefix(n, 0);
+        // 1. Only use the map to track running frequencies
         unordered_map<int, int> freq;
-
-        prefix[0] = nums[0];
-        for (int i = 1; i < n; i++) {
-            prefix[i] = prefix[i - 1] + nums[i];
-        }
+        freq[0] =
+            1; // Base case: A prefix sum of 0 has occurred 1 time initially
 
         int count = 0;
-        for (int i = 0; i < n; i++) {
-            if (prefix[i] == k) {
-                count++;
-            }
-            int req = prefix[i] - k;
-            if (freq.contains(req)) {
+        int current_prefix = 0; // Tracks running prefix sum on the fly
+
+        // 2. Process everything in a single, high-efficiency pass
+        for (int num : nums) {
+            current_prefix += num;
+            int req = current_prefix - k;
+
+            // Check if the required complement prefix sum exists
+            if (freq.contains(req)) { // .contains() requires C++20
                 count += freq[req];
             }
-            // println("req={}", req);
-            freq[prefix[i]]++;
+
+            // Record the current running prefix sum
+            freq[current_prefix]++;
         }
+
         return count;
     }
 };
