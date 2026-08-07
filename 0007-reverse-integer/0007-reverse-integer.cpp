@@ -9,7 +9,7 @@ public:
 
 private:
     // pass value by reference to save memory
-    int reverse(int x, long long prev) {
+    int reverse(int x, long long& prev) {
         if (prev > INT_MAX || prev < INT_MIN) {
             return 0;
         }
