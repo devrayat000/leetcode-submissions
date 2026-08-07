@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/devrayat000/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/devrayat000/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/devrayat000/leetcode-submissions/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/devrayat000/leetcode-submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
