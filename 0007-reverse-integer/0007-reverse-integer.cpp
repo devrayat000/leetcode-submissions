@@ -1,12 +1,15 @@
 class Solution {
 public:
     int reverse(int x) {
+        // use long to track overflow
+        // regular int will throw error
         long long carry = 0;
         return reverse(x, carry);
     }
 
 private:
-    int reverse(int x, long long& prev) {
+    // pass value by reference to save memory
+    int reverse(int x, long long prev) {
         if (prev > INT_MAX || prev < INT_MIN) {
             return 0;
         }
