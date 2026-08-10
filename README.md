@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/devrayat000/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/devrayat000/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0572-subtree-of-another-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/devrayat000/leetcode-submissions/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
