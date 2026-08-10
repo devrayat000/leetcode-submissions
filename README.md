@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devrayat000/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/devrayat000/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/devrayat000/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/devrayat000/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
