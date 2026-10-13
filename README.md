@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/devrayat000/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/devrayat000/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/devrayat000/leetcode-submissions/tree/master/0055-jump-game) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/devrayat000/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/devrayat000/leetcode-submissions/tree/master/0055-jump-game) |
 ## Manacher
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devrayat000/leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/devrayat000/leetcode-submissions/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
