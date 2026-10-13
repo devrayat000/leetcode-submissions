@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devrayat000/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/devrayat000/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/devrayat000/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devrayat000/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/devrayat000/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/devrayat000/leetcode-submissions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/devrayat000/leetcode-submissions/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
