@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/devrayat000/leetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/devrayat000/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/devrayat000/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devrayat000/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/devrayat000/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/devrayat000/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
