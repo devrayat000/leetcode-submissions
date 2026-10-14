@@ -1,6 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        // Last seen position of a character
         vector<int> seen(256, -1);
         int l = 0, r = 0, len = 0;
         while (r < s.length()) {
