@@ -4,15 +4,9 @@ public:
         unordered_map<string, vector<string>> mp;
 
         for (auto str : strs) {
-            vector<int> freq(26, 0);
+            string key(26, '\0');
             for (const char& c : str) {
-                freq[c - 'a']++;
-            }
-            string key = "";
-            for (int i = 0; i < freq.size(); i++) {
-                if (freq[i] > 0) {
-                    key += to_string(i) + "(" + to_string(freq[i]) + ")";
-                }
+                key[c - 'a']++;
             }
 
             mp[key].push_back(str);
