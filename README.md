@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/devrayat000/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devrayat000/leetcode-submissions/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/devrayat000/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devrayat000/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/devrayat000/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/devrayat000/leetcode-submissions/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/devrayat000/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/devrayat000/leetcode-submissions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search Tree
@@ -201,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/devrayat000/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devrayat000/leetcode-submissions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/devrayat000/leetcode-submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
