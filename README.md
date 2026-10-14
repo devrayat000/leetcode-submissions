@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devrayat000/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/devrayat000/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/devrayat000/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devrayat000/leetcode-submissions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/devrayat000/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devrayat000/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/devrayat000/leetcode-submissions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Divide and Conquer
