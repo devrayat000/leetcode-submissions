@@ -1,14 +1,15 @@
 bool isPalindrome(char* s) {
-    int n = strlen(s);
+    int n = strlen(s), fn = 0;
     char fil[n+1];
     fil[0] = '\0'; 
     for (int i = 0; i < n; i++) {
         char c = tolower(s[i]);
         if (isalnum(c)) {
             strncat(fil, &c, 1);
+            fn++;
         }
     }
-    int l = 0, r = strlen(fil) - 1;
+    int l = 0, r = fn - 1;
     while (l < r) {
         if (fil[l] != fil[r]) {
             return false;
