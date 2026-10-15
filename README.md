@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/devrayat000/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/devrayat000/leetcode-submissions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3708-longest-fibonacci-subarray](https://github.com/devrayat000/leetcode-submissions/tree/master/3708-longest-fibonacci-subarray) |
 ## Hash Table
 |  |
 | ------- |
