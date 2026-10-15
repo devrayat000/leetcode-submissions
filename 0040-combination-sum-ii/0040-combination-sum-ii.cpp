@@ -4,34 +4,39 @@ public:
         sort(candidates.begin(), candidates.end());
         vector<vector<int>> ans;
         vector<int> comb;
-
-        makeCombination(candidates, target, 0, ans, comb);
+        
+        // Start at index 0, with prevPicked = false
+        solve(candidates, target, 0, false, comb, ans);
         return ans;
     }
 
 private:
-    void makeCombination(vector<int>& candidates, int target, int idx,
-                         vector<vector<int>>& ans, vector<int>& comb) {
-
+    void solve(vector<int>& candidates, int target, int idx, bool prevPicked,
+               vector<int>& comb, vector<vector<int>>& ans) {
+        // Base case: valid combination found
         if (target == 0) {
-            ans.push_back({comb});
+            ans.push_back(comb);
+            return;
+        }
+        
+        // Base case: out of bounds or current number is too large (since sorted)
+        if (idx == candidates.size() || candidates[idx] > target) {
             return;
         }
 
-        for (int i = idx; i < candidates.size(); i++) {
-            if (i > idx && candidates[i] == candidates[i - 1]) {
-                continue;
-            }
+        // BRANCH 1: SKIP candidates[idx]
+        // We set prevPicked = false because we deliberately skipped this element
+        solve(candidates, target, idx + 1, false, comb, ans);
 
-            if (candidates[i] > target) {
-                break;
-            }
-
-            comb.push_back(candidates[i]);
-            makeCombination(candidates, target - candidates[i], i + 1, ans,
-                            comb);
-
-            comb.pop_back();
+        // BRANCH 2: PICK candidates[idx]
+        // Duplicate check: If this number is the same as the previous one, 
+        // we can ONLY pick it if we ALSO picked the previous one.
+        if (idx > 0 && candidates[idx] == candidates[idx - 1] && !prevPicked) {
+            return;
         }
+
+        comb.push_back(candidates[idx]);
+        solve(candidates, target - candidates[idx], idx + 1, true, comb, ans);
+        comb.pop_back(); // Backtrack
     }
 };
