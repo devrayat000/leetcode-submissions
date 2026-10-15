@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devrayat000/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/devrayat000/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/devrayat000/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0572-subtree-of-another-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/devrayat000/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devrayat000/leetcode-submissions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devrayat000/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/devrayat000/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 ## Manacher
 |  |
 | ------- |
@@ -262,4 +264,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devrayat000/leetcode-submissions/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/devrayat000/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
