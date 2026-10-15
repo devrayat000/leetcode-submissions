@@ -61,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devrayat000/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/devrayat000/leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/devrayat000/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devrayat000/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/devrayat000/leetcode-submissions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devrayat000/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/devrayat000/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0509-fibonacci-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devrayat000/leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/devrayat000/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
