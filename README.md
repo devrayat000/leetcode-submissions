@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/devrayat000/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/devrayat000/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/devrayat000/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/devrayat000/leetcode-submissions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/devrayat000/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/devrayat000/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/devrayat000/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/devrayat000/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/devrayat000/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/devrayat000/leetcode-submissions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search Tree
 |  |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/devrayat000/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/devrayat000/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -229,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -281,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/devrayat000/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0509-fibonacci-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
