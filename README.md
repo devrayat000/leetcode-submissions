@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/devrayat000/leetcode-submissions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/devrayat000/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devrayat000/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devrayat000/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/devrayat000/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devrayat000/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/devrayat000/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devrayat000/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/devrayat000/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/devrayat000/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/devrayat000/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/devrayat000/leetcode-submissions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search Tree
