@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devrayat000/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/devrayat000/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/devrayat000/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devrayat000/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/devrayat000/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/devrayat000/leetcode-submissions/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devrayat000/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/devrayat000/leetcode-submissions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search
 |  |
