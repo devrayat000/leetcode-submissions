@@ -1,21 +1,22 @@
-class Solution:
-    def rob(self, nums: List[int]) -> int:
-
-        @cache
-        def rob_from(i: int, e: int) -> int:
-            if len(nums) == 1:
-                return nums[0]
-                
-            if i >= len(nums) - e:
-                return 0
-
-            rob = nums[i] + rob_from(i + 2, e)
-            skip = rob_from(i + 1, e)
-
-            return max(rob, skip)
-
-        first = rob_from(0, 1)
-        second = rob_from(1, 0)
+class Solution(object):
+    def rob(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        n = len(nums)
+        if n == 1:
+            return nums[0]
+            
+        first = self.rob_from(nums, 0, n - 1)
+        second = self.rob_from(nums, 1, n)
         return max(first, second)
-    
+
+    def rob_from(self, nums, start, end):
+        prev = curr = 0
+
+        for i in range(start, end):
+            prev, curr = curr, max(nums[i] + prev, curr)
+        
+        return curr
         
