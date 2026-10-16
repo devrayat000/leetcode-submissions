@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/devrayat000/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devrayat000/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/devrayat000/leetcode-submissions/tree/master/0413-arithmetic-slices) |
 | [0523-continuous-subarray-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/devrayat000/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/devrayat000/leetcode-submissions/tree/master/0413-arithmetic-slices) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/devrayat000/leetcode-submissions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/devrayat000/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/devrayat000/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devrayat000/leetcode-submissions/tree/master/0213-house-robber-ii) |
+| [0413-arithmetic-slices](https://github.com/devrayat000/leetcode-submissions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
