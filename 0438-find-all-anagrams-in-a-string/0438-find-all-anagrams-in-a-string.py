@@ -9,3 +9,4 @@ class Solution:
                 ret.append(i)
 
         return ret
+# O(n*k)
