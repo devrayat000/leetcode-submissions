@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/devrayat000/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/devrayat000/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/devrayat000/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/devrayat000/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devrayat000/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devrayat000/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/devrayat000/leetcode-submissions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Linked List
