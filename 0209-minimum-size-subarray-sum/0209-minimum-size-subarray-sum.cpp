@@ -1,19 +1,18 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
-        unordered_map<int, int> cache;
         int n = nums.size();
-        vector<int> sums(n+1,0);
 
         // Prefix sum
-        for (int i = 0; i < n; i++) {
-            sums[i+1] = sums[i] + nums[i];
+        for (int i = 1; i < n; i++) {
+            nums[i] = nums[i] + nums[i - 1];
         }
 
         // Dynamic sliding window
-        int l = 0, r = 1, steps = INT_MAX;
-        while (l <= n && !(r == n && (sums[r] - sums[l]) < target)) {
-            int tmp = sums[r] - sums[l];
+        int l = -1, r = 0, steps = INT_MAX;
+        while (l <= n && !((r == n - 1) && (nums[r] - (l > -1 ? nums[l] : 0)) < target)) {
+            int tmp = nums[r] - (l > -1 ? nums[l] : 0);
+            println("tmp={}", tmp);
             if (tmp < target) {
                 r++;
             } else {
