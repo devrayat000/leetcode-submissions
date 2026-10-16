@@ -16,7 +16,7 @@ public:
                 prevIdx = i;
             }
         }
-        // println("{}, {}, {}", i, prevIdx, count);
+        
         return count + sumConsecutive(i - prevIdx + 1);
     }
 
