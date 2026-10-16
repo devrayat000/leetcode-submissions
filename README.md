@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/devrayat000/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/devrayat000/leetcode-submissions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/devrayat000/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/devrayat000/leetcode-submissions/tree/master/0525-contiguous-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/devrayat000/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/devrayat000/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -134,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/devrayat000/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devrayat000/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/devrayat000/leetcode-submissions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/devrayat000/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/devrayat000/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/devrayat000/leetcode-submissions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/devrayat000/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -344,4 +349,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/devrayat000/leetcode-submissions/tree/master/0731-my-calendar-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/devrayat000/leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
